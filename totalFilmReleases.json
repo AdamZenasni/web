@@ -1,0 +1,272 @@
+[
+  {
+    "Year": 2021,
+    "Warner Bros": 17,
+    "Disney": 7,
+    "Fox": 0,
+    "Paramount": 4,
+    "Sony": 16,
+    "Universal": 17,
+    "Other": 38
+  },
+  {
+    "Year": 2020,
+    "Warner Bros": 5,
+    "Disney": 3,
+    "Fox": 1,
+    "Paramount": 3,
+    "Sony": 9,
+    "Universal": 13,
+    "Other": 23
+  },
+  {
+    "Year": 2019,
+    "Warner Bros": 18,
+    "Disney": 10,
+    "Fox": 11,
+    "Paramount": 9,
+    "Sony": 18,
+    "Universal": 21,
+    "Other": 44
+  },
+  {
+    "Year": 2018,
+    "Warner Bros": 19,
+    "Disney": 10,
+    "Fox": 11,
+    "Paramount": 10,
+    "Sony": 16,
+    "Universal": 20,
+    "Other": 58
+  },
+  {
+    "Year": 2017,
+    "Warner Bros": 18,
+    "Disney": 8,
+    "Fox": 14,
+    "Paramount": 10,
+    "Sony": 16,
+    "Universal": 15,
+    "Other": 50
+  },
+  {
+    "Year": 2016,
+    "Warner Bros": 17,
+    "Disney": 12,
+    "Fox": 16,
+    "Paramount": 12,
+    "Sony": 16,
+    "Universal": 22,
+    "Other": 46
+  },
+  {
+    "Year": 2015,
+    "Warner Bros": 22,
+    "Disney": 11,
+    "Fox": 18,
+    "Paramount": 9,
+    "Sony": 13,
+    "Universal": 20,
+    "Other": 33
+  },
+  {
+    "Year": 2014,
+    "Warner Bros": 17,
+    "Disney": 12,
+    "Fox": 17,
+    "Paramount": 10,
+    "Sony": 17,
+    "Universal": 15,
+    "Other": 37
+  },
+  {
+    "Year": 2013,
+    "Warner Bros": 17,
+    "Disney": 8,
+    "Fox": 15,
+    "Paramount": 8,
+    "Sony": 14,
+    "Universal": 16,
+    "Other": 42
+  },
+  {
+    "Year": 2012,
+    "Warner Bros": 16,
+    "Disney": 11,
+    "Fox": 15,
+    "Paramount": 13,
+    "Sony": 18,
+    "Universal": 17,
+    "Other": 42
+  },
+  {
+    "Year": 2011,
+    "Warner Bros": 20,
+    "Disney": 13,
+    "Fox": 15,
+    "Paramount": 13,
+    "Sony": 21,
+    "Universal": 19,
+    "Other": 35
+  },
+  {
+    "Year": 2010,
+    "Warner Bros": 20,
+    "Disney": 12,
+    "Fox": 18,
+    "Paramount": 12,
+    "Sony": 17,
+    "Universal": 17,
+    "Other": 30
+  },
+  {
+    "Year": 2009,
+    "Warner Bros": 25,
+    "Disney": 14,
+    "Fox": 20,
+    "Paramount": 10,
+    "Sony": 21,
+    "Universal": 21,
+    "Other": 30
+  },
+  {
+    "Year": 2008,
+    "Warner Bros": 19,
+    "Disney": 11,
+    "Fox": 22,
+    "Paramount": 14,
+    "Sony": 19,
+    "Universal": 19,
+    "Other": 48
+  },
+  {
+    "Year": 2007,
+    "Warner Bros": 30,
+    "Disney": 13,
+    "Fox": 17,
+    "Paramount": 16,
+    "Sony": 22,
+    "Universal": 20,
+    "Other": 50
+  },
+  {
+    "Year": 2006,
+    "Warner Bros": 26,
+    "Disney": 17,
+    "Fox": 25,
+    "Paramount": 13,
+    "Sony": 26,
+    "Universal": 21,
+    "Other": 31
+  },
+  {
+    "Year": 2005,
+    "Warner Bros": 20,
+    "Disney": 20,
+    "Fox": 19,
+    "Paramount": 12,
+    "Sony": 19,
+    "Universal": 17,
+    "Other": 30
+  },
+  {
+    "Year": 2004,
+    "Warner Bros": 27,
+    "Disney": 25,
+    "Fox": 18,
+    "Paramount": 14,
+    "Sony": 15,
+    "Universal": 14,
+    "Other": 25
+  },
+  {
+    "Year": 2003,
+    "Warner Bros": 28,
+    "Disney": 19,
+    "Fox": 13,
+    "Paramount": 14,
+    "Sony": 19,
+    "Universal": 13,
+    "Other": 23
+  },
+  {
+    "Year": 2002,
+    "Warner Bros": 32,
+    "Disney": 23,
+    "Fox": 15,
+    "Paramount": 16,
+    "Sony": 20,
+    "Universal": 13,
+    "Other": 21
+  },
+  {
+    "Year": 2001,
+    "Warner Bros": 30,
+    "Disney": 16,
+    "Fox": 16,
+    "Paramount": 14,
+    "Sony": 17,
+    "Universal": 10,
+    "Other": 25
+  },
+  {
+    "Year": 2000,
+    "Warner Bros": 29,
+    "Disney": 22,
+    "Fox": 13,
+    "Paramount": 12,
+    "Sony": 15,
+    "Universal": 13,
+    "Other": 27
+  },
+  {
+    "Year": 1999,
+    "Warner Bros": 27,
+    "Disney": 20,
+    "Fox": 15,
+    "Paramount": 13,
+    "Sony": 22,
+    "Universal": 16,
+    "Other": 19
+  },
+  {
+    "Year": 1998,
+    "Warner Bros": 27,
+    "Disney": 21,
+    "Fox": 11,
+    "Paramount": 11,
+    "Sony": 20,
+    "Universal": 16,
+    "Other": 20
+  },
+  {
+    "Year": 1997,
+    "Warner Bros": 31,
+    "Disney": 22,
+    "Fox": 12,
+    "Paramount": 16,
+    "Sony": 22,
+    "Universal": 11,
+    "Other": 22
+  },
+  {
+    "Year": 1996,
+    "Warner Bros": 31,
+    "Disney": 23,
+    "Fox": 13,
+    "Paramount": 16,
+    "Sony": 24,
+    "Universal": 13,
+    "Other": 22
+  },
+  {
+    "Year": 1995,
+    "Warner Bros": 27,
+    "Disney": 22,
+    "Fox": 11,
+    "Paramount": 12,
+    "Sony": 20,
+    "Universal": 17,
+    "Other": 27
+  }
+]
