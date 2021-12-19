@@ -1,0 +1,947 @@
+[
+  {
+    "Year": 2021,
+    "Studio": "Warner Bros",
+    "Movies": 17
+  },
+  {
+    "Year": 2020,
+    "Studio": "Warner Bros",
+    "Movies": 5
+  },
+  {
+    "Year": 2019,
+    "Studio": "Warner Bros",
+    "Movies": 18
+  },
+  {
+    "Year": 2018,
+    "Studio": "Warner Bros",
+    "Movies": 19
+  },
+  {
+    "Year": 2017,
+    "Studio": "Warner Bros",
+    "Movies": 18
+  },
+  {
+    "Year": 2016,
+    "Studio": "Warner Bros",
+    "Movies": 17
+  },
+  {
+    "Year": 2015,
+    "Studio": "Warner Bros",
+    "Movies": 22
+  },
+  {
+    "Year": 2014,
+    "Studio": "Warner Bros",
+    "Movies": 17
+  },
+  {
+    "Year": 2013,
+    "Studio": "Warner Bros",
+    "Movies": 17
+  },
+  {
+    "Year": 2012,
+    "Studio": "Warner Bros",
+    "Movies": 16
+  },
+  {
+    "Year": 2011,
+    "Studio": "Warner Bros",
+    "Movies": 20
+  },
+  {
+    "Year": 2010,
+    "Studio": "Warner Bros",
+    "Movies": 20
+  },
+  {
+    "Year": 2009,
+    "Studio": "Warner Bros",
+    "Movies": 25
+  },
+  {
+    "Year": 2008,
+    "Studio": "Warner Bros",
+    "Movies": 19
+  },
+  {
+    "Year": 2007,
+    "Studio": "Warner Bros",
+    "Movies": 30
+  },
+  {
+    "Year": 2006,
+    "Studio": "Warner Bros",
+    "Movies": 26
+  },
+  {
+    "Year": 2005,
+    "Studio": "Warner Bros",
+    "Movies": 20
+  },
+  {
+    "Year": 2004,
+    "Studio": "Warner Bros",
+    "Movies": 27
+  },
+  {
+    "Year": 2003,
+    "Studio": "Warner Bros",
+    "Movies": 28
+  },
+  {
+    "Year": 2002,
+    "Studio": "Warner Bros",
+    "Movies": 32
+  },
+  {
+    "Year": 2001,
+    "Studio": "Warner Bros",
+    "Movies": 30
+  },
+  {
+    "Year": 2000,
+    "Studio": "Warner Bros",
+    "Movies": 29
+  },
+  {
+    "Year": 1999,
+    "Studio": "Warner Bros",
+    "Movies": 27
+  },
+  {
+    "Year": 1998,
+    "Studio": "Warner Bros",
+    "Movies": 27
+  },
+  {
+    "Year": 1997,
+    "Studio": "Warner Bros",
+    "Movies": 31
+  },
+  {
+    "Year": 1996,
+    "Studio": "Warner Bros",
+    "Movies": 31
+  },
+  {
+    "Year": 1995,
+    "Studio": "Warner Bros",
+    "Movies": 27
+  },
+  {
+    "Year": 2021,
+    "Studio": "Disney",
+    "Movies": 7
+  },
+  {
+    "Year": 2020,
+    "Studio": "Disney",
+    "Movies": 3
+  },
+  {
+    "Year": 2019,
+    "Studio": "Disney",
+    "Movies": 10
+  },
+  {
+    "Year": 2018,
+    "Studio": "Disney",
+    "Movies": 10
+  },
+  {
+    "Year": 2017,
+    "Studio": "Disney",
+    "Movies": 8
+  },
+  {
+    "Year": 2016,
+    "Studio": "Disney",
+    "Movies": 12
+  },
+  {
+    "Year": 2015,
+    "Studio": "Disney",
+    "Movies": 11
+  },
+  {
+    "Year": 2014,
+    "Studio": "Disney",
+    "Movies": 12
+  },
+  {
+    "Year": 2013,
+    "Studio": "Disney",
+    "Movies": 8
+  },
+  {
+    "Year": 2012,
+    "Studio": "Disney",
+    "Movies": 11
+  },
+  {
+    "Year": 2011,
+    "Studio": "Disney",
+    "Movies": 13
+  },
+  {
+    "Year": 2010,
+    "Studio": "Disney",
+    "Movies": 12
+  },
+  {
+    "Year": 2009,
+    "Studio": "Disney",
+    "Movies": 14
+  },
+  {
+    "Year": 2008,
+    "Studio": "Disney",
+    "Movies": 11
+  },
+  {
+    "Year": 2007,
+    "Studio": "Disney",
+    "Movies": 13
+  },
+  {
+    "Year": 2006,
+    "Studio": "Disney",
+    "Movies": 17
+  },
+  {
+    "Year": 2005,
+    "Studio": "Disney",
+    "Movies": 20
+  },
+  {
+    "Year": 2004,
+    "Studio": "Disney",
+    "Movies": 25
+  },
+  {
+    "Year": 2003,
+    "Studio": "Disney",
+    "Movies": 19
+  },
+  {
+    "Year": 2002,
+    "Studio": "Disney",
+    "Movies": 23
+  },
+  {
+    "Year": 2001,
+    "Studio": "Disney",
+    "Movies": 16
+  },
+  {
+    "Year": 2000,
+    "Studio": "Disney",
+    "Movies": 22
+  },
+  {
+    "Year": 1999,
+    "Studio": "Disney",
+    "Movies": 20
+  },
+  {
+    "Year": 1998,
+    "Studio": "Disney",
+    "Movies": 21
+  },
+  {
+    "Year": 1997,
+    "Studio": "Disney",
+    "Movies": 22
+  },
+  {
+    "Year": 1996,
+    "Studio": "Disney",
+    "Movies": 23
+  },
+  {
+    "Year": 1995,
+    "Studio": "Disney",
+    "Movies": 22
+  },
+  {
+    "Year": 2021,
+    "Studio": "Fox",
+    "Movies": 0
+  },
+  {
+    "Year": 2020,
+    "Studio": "Fox",
+    "Movies": 1
+  },
+  {
+    "Year": 2019,
+    "Studio": "Fox",
+    "Movies": 11
+  },
+  {
+    "Year": 2018,
+    "Studio": "Fox",
+    "Movies": 11
+  },
+  {
+    "Year": 2017,
+    "Studio": "Fox",
+    "Movies": 14
+  },
+  {
+    "Year": 2016,
+    "Studio": "Fox",
+    "Movies": 16
+  },
+  {
+    "Year": 2015,
+    "Studio": "Fox",
+    "Movies": 18
+  },
+  {
+    "Year": 2014,
+    "Studio": "Fox",
+    "Movies": 17
+  },
+  {
+    "Year": 2013,
+    "Studio": "Fox",
+    "Movies": 15
+  },
+  {
+    "Year": 2012,
+    "Studio": "Fox",
+    "Movies": 15
+  },
+  {
+    "Year": 2011,
+    "Studio": "Fox",
+    "Movies": 15
+  },
+  {
+    "Year": 2010,
+    "Studio": "Fox",
+    "Movies": 18
+  },
+  {
+    "Year": 2009,
+    "Studio": "Fox",
+    "Movies": 20
+  },
+  {
+    "Year": 2008,
+    "Studio": "Fox",
+    "Movies": 22
+  },
+  {
+    "Year": 2007,
+    "Studio": "Fox",
+    "Movies": 17
+  },
+  {
+    "Year": 2006,
+    "Studio": "Fox",
+    "Movies": 25
+  },
+  {
+    "Year": 2005,
+    "Studio": "Fox",
+    "Movies": 19
+  },
+  {
+    "Year": 2004,
+    "Studio": "Fox",
+    "Movies": 18
+  },
+  {
+    "Year": 2003,
+    "Studio": "Fox",
+    "Movies": 13
+  },
+  {
+    "Year": 2002,
+    "Studio": "Fox",
+    "Movies": 15
+  },
+  {
+    "Year": 2001,
+    "Studio": "Fox",
+    "Movies": 16
+  },
+  {
+    "Year": 2000,
+    "Studio": "Fox",
+    "Movies": 13
+  },
+  {
+    "Year": 1999,
+    "Studio": "Fox",
+    "Movies": 15
+  },
+  {
+    "Year": 1998,
+    "Studio": "Fox",
+    "Movies": 11
+  },
+  {
+    "Year": 1997,
+    "Studio": "Fox",
+    "Movies": 12
+  },
+  {
+    "Year": 1996,
+    "Studio": "Fox",
+    "Movies": 13
+  },
+  {
+    "Year": 1995,
+    "Studio": "Fox",
+    "Movies": 11
+  },
+  {
+    "Year": 2021,
+    "Studio": "Paramount",
+    "Movies": 4
+  },
+  {
+    "Year": 2020,
+    "Studio": "Paramount",
+    "Movies": 3
+  },
+  {
+    "Year": 2019,
+    "Studio": "Paramount",
+    "Movies": 9
+  },
+  {
+    "Year": 2018,
+    "Studio": "Paramount",
+    "Movies": 10
+  },
+  {
+    "Year": 2017,
+    "Studio": "Paramount",
+    "Movies": 10
+  },
+  {
+    "Year": 2016,
+    "Studio": "Paramount",
+    "Movies": 12
+  },
+  {
+    "Year": 2015,
+    "Studio": "Paramount",
+    "Movies": 9
+  },
+  {
+    "Year": 2014,
+    "Studio": "Paramount",
+    "Movies": 10
+  },
+  {
+    "Year": 2013,
+    "Studio": "Paramount",
+    "Movies": 8
+  },
+  {
+    "Year": 2012,
+    "Studio": "Paramount",
+    "Movies": 13
+  },
+  {
+    "Year": 2011,
+    "Studio": "Paramount",
+    "Movies": 13
+  },
+  {
+    "Year": 2010,
+    "Studio": "Paramount",
+    "Movies": 12
+  },
+  {
+    "Year": 2009,
+    "Studio": "Paramount",
+    "Movies": 10
+  },
+  {
+    "Year": 2008,
+    "Studio": "Paramount",
+    "Movies": 14
+  },
+  {
+    "Year": 2007,
+    "Studio": "Paramount",
+    "Movies": 16
+  },
+  {
+    "Year": 2006,
+    "Studio": "Paramount",
+    "Movies": 13
+  },
+  {
+    "Year": 2005,
+    "Studio": "Paramount",
+    "Movies": 12
+  },
+  {
+    "Year": 2004,
+    "Studio": "Paramount",
+    "Movies": 14
+  },
+  {
+    "Year": 2003,
+    "Studio": "Paramount",
+    "Movies": 14
+  },
+  {
+    "Year": 2002,
+    "Studio": "Paramount",
+    "Movies": 16
+  },
+  {
+    "Year": 2001,
+    "Studio": "Paramount",
+    "Movies": 14
+  },
+  {
+    "Year": 2000,
+    "Studio": "Paramount",
+    "Movies": 12
+  },
+  {
+    "Year": 1999,
+    "Studio": "Paramount",
+    "Movies": 13
+  },
+  {
+    "Year": 1998,
+    "Studio": "Paramount",
+    "Movies": 11
+  },
+  {
+    "Year": 1997,
+    "Studio": "Paramount",
+    "Movies": 16
+  },
+  {
+    "Year": 1996,
+    "Studio": "Paramount",
+    "Movies": 16
+  },
+  {
+    "Year": 1995,
+    "Studio": "Paramount",
+    "Movies": 12
+  },
+  {
+    "Year": 2021,
+    "Studio": "Sony",
+    "Movies": 16
+  },
+  {
+    "Year": 2020,
+    "Studio": "Sony",
+    "Movies": 9
+  },
+  {
+    "Year": 2019,
+    "Studio": "Sony",
+    "Movies": 18
+  },
+  {
+    "Year": 2018,
+    "Studio": "Sony",
+    "Movies": 16
+  },
+  {
+    "Year": 2017,
+    "Studio": "Sony",
+    "Movies": 16
+  },
+  {
+    "Year": 2016,
+    "Studio": "Sony",
+    "Movies": 16
+  },
+  {
+    "Year": 2015,
+    "Studio": "Sony",
+    "Movies": 13
+  },
+  {
+    "Year": 2014,
+    "Studio": "Sony",
+    "Movies": 17
+  },
+  {
+    "Year": 2013,
+    "Studio": "Sony",
+    "Movies": 14
+  },
+  {
+    "Year": 2012,
+    "Studio": "Sony",
+    "Movies": 18
+  },
+  {
+    "Year": 2011,
+    "Studio": "Sony",
+    "Movies": 21
+  },
+  {
+    "Year": 2010,
+    "Studio": "Sony",
+    "Movies": 17
+  },
+  {
+    "Year": 2009,
+    "Studio": "Sony",
+    "Movies": 21
+  },
+  {
+    "Year": 2008,
+    "Studio": "Sony",
+    "Movies": 19
+  },
+  {
+    "Year": 2007,
+    "Studio": "Sony",
+    "Movies": 22
+  },
+  {
+    "Year": 2006,
+    "Studio": "Sony",
+    "Movies": 26
+  },
+  {
+    "Year": 2005,
+    "Studio": "Sony",
+    "Movies": 19
+  },
+  {
+    "Year": 2004,
+    "Studio": "Sony",
+    "Movies": 15
+  },
+  {
+    "Year": 2003,
+    "Studio": "Sony",
+    "Movies": 19
+  },
+  {
+    "Year": 2002,
+    "Studio": "Sony",
+    "Movies": 20
+  },
+  {
+    "Year": 2001,
+    "Studio": "Sony",
+    "Movies": 17
+  },
+  {
+    "Year": 2000,
+    "Studio": "Sony",
+    "Movies": 15
+  },
+  {
+    "Year": 1999,
+    "Studio": "Sony",
+    "Movies": 22
+  },
+  {
+    "Year": 1998,
+    "Studio": "Sony",
+    "Movies": 20
+  },
+  {
+    "Year": 1997,
+    "Studio": "Sony",
+    "Movies": 22
+  },
+  {
+    "Year": 1996,
+    "Studio": "Sony",
+    "Movies": 24
+  },
+  {
+    "Year": 1995,
+    "Studio": "Sony",
+    "Movies": 20
+  },
+  {
+    "Year": 2021,
+    "Studio": "Universal",
+    "Movies": 17
+  },
+  {
+    "Year": 2020,
+    "Studio": "Universal",
+    "Movies": 13
+  },
+  {
+    "Year": 2019,
+    "Studio": "Universal",
+    "Movies": 21
+  },
+  {
+    "Year": 2018,
+    "Studio": "Universal",
+    "Movies": 20
+  },
+  {
+    "Year": 2017,
+    "Studio": "Universal",
+    "Movies": 15
+  },
+  {
+    "Year": 2016,
+    "Studio": "Universal",
+    "Movies": 22
+  },
+  {
+    "Year": 2015,
+    "Studio": "Universal",
+    "Movies": 20
+  },
+  {
+    "Year": 2014,
+    "Studio": "Universal",
+    "Movies": 15
+  },
+  {
+    "Year": 2013,
+    "Studio": "Universal",
+    "Movies": 16
+  },
+  {
+    "Year": 2012,
+    "Studio": "Universal",
+    "Movies": 17
+  },
+  {
+    "Year": 2011,
+    "Studio": "Universal",
+    "Movies": 19
+  },
+  {
+    "Year": 2010,
+    "Studio": "Universal",
+    "Movies": 17
+  },
+  {
+    "Year": 2009,
+    "Studio": "Universal",
+    "Movies": 21
+  },
+  {
+    "Year": 2008,
+    "Studio": "Universal",
+    "Movies": 19
+  },
+  {
+    "Year": 2007,
+    "Studio": "Universal",
+    "Movies": 20
+  },
+  {
+    "Year": 2006,
+    "Studio": "Universal",
+    "Movies": 21
+  },
+  {
+    "Year": 2005,
+    "Studio": "Universal",
+    "Movies": 17
+  },
+  {
+    "Year": 2004,
+    "Studio": "Universal",
+    "Movies": 14
+  },
+  {
+    "Year": 2003,
+    "Studio": "Universal",
+    "Movies": 13
+  },
+  {
+    "Year": 2002,
+    "Studio": "Universal",
+    "Movies": 13
+  },
+  {
+    "Year": 2001,
+    "Studio": "Universal",
+    "Movies": 10
+  },
+  {
+    "Year": 2000,
+    "Studio": "Universal",
+    "Movies": 13
+  },
+  {
+    "Year": 1999,
+    "Studio": "Universal",
+    "Movies": 16
+  },
+  {
+    "Year": 1998,
+    "Studio": "Universal",
+    "Movies": 16
+  },
+  {
+    "Year": 1997,
+    "Studio": "Universal",
+    "Movies": 11
+  },
+  {
+    "Year": 1996,
+    "Studio": "Universal",
+    "Movies": 13
+  },
+  {
+    "Year": 1995,
+    "Studio": "Universal",
+    "Movies": 17
+  },
+  {
+    "Year": 2021,
+    "Studio": "Others",
+    "Movies": 38
+  },
+  {
+    "Year": 2020,
+    "Studio": "Others",
+    "Movies": 23
+  },
+  {
+    "Year": 2019,
+    "Studio": "Others",
+    "Movies": 44
+  },
+  {
+    "Year": 2018,
+    "Studio": "Others",
+    "Movies": 58
+  },
+  {
+    "Year": 2017,
+    "Studio": "Others",
+    "Movies": 50
+  },
+  {
+    "Year": 2016,
+    "Studio": "Others",
+    "Movies": 46
+  },
+  {
+    "Year": 2015,
+    "Studio": "Others",
+    "Movies": 33
+  },
+  {
+    "Year": 2014,
+    "Studio": "Others",
+    "Movies": 37
+  },
+  {
+    "Year": 2013,
+    "Studio": "Others",
+    "Movies": 42
+  },
+  {
+    "Year": 2012,
+    "Studio": "Others",
+    "Movies": 42
+  },
+  {
+    "Year": 2011,
+    "Studio": "Others",
+    "Movies": 35
+  },
+  {
+    "Year": 2010,
+    "Studio": "Others",
+    "Movies": 30
+  },
+  {
+    "Year": 2009,
+    "Studio": "Others",
+    "Movies": 30
+  },
+  {
+    "Year": 2008,
+    "Studio": "Others",
+    "Movies": 48
+  },
+  {
+    "Year": 2007,
+    "Studio": "Others",
+    "Movies": 50
+  },
+  {
+    "Year": 2006,
+    "Studio": "Others",
+    "Movies": 31
+  },
+  {
+    "Year": 2005,
+    "Studio": "Others",
+    "Movies": 30
+  },
+  {
+    "Year": 2004,
+    "Studio": "Others",
+    "Movies": 25
+  },
+  {
+    "Year": 2003,
+    "Studio": "Others",
+    "Movies": 23
+  },
+  {
+    "Year": 2002,
+    "Studio": "Others",
+    "Movies": 21
+  },
+  {
+    "Year": 2001,
+    "Studio": "Others",
+    "Movies": 25
+  },
+  {
+    "Year": 2000,
+    "Studio": "Others",
+    "Movies": 27
+  },
+  {
+    "Year": 1999,
+    "Studio": "Others",
+    "Movies": 19
+  },
+  {
+    "Year": 1998,
+    "Studio": "Others",
+    "Movies": 20
+  },
+  {
+    "Year": 1997,
+    "Studio": "Others",
+    "Movies": 22
+  },
+  {
+    "Year": 1996,
+    "Studio": "Others",
+    "Movies": 22
+  },
+  {
+    "Year": 1995,
+    "Studio": "Others",
+    "Movies": 27
+  }
+]
